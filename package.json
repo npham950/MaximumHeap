@@ -1,0 +1,30 @@
+{
+  "name": "maxheap",
+  "version": "1.0.0",
+  "description": "heap test",
+  "main": "MaximumHeap.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "cauanmut": "node MaximumHeap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npham950/MaximumHeap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npham950/MaximumHeap/issues"
+  },
+  "homepage": "https://github.com/npham950/MaximumHeap#readme",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "thanst-router": "^0.1.0"
+  }
+}
